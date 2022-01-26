@@ -1,0 +1,5 @@
+name: FrostwalkerBan
+version: '${project.version}'
+main: com.killers0992.frostwalkerban.FrostwalkerBan
+api-version: 1.18
+authors: [ Killers0992 ]
